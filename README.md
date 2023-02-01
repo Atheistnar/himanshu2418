@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanshu2418
-- 👀 I’m interested in python c++ sql prolog
-- 🌱 I’m currently learning bsc it and c++  
+- 👀 I’m interested in python c++ c
+- 🌱 I’m currently pursuing B.Sc IT 
 - 💞️ I’m looking to collaborate on c++
 - 📫 How to reach me mail me @ himanshu.po@outlook.com
 
