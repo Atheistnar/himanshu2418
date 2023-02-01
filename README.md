@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himanshu2418
+- 👋 Hi, I’m @atheistnar
 - 👀 I’m interested in python c++ c
 - 🌱 I’m currently pursuing B.Sc IT 
 - 💞️ I’m looking to collaborate on c++
